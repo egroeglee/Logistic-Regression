@@ -23,7 +23,7 @@ Confusion Matrix:
   
 	00:預測沒買實際也沒買 11:預測有買實際也有買 01&10:表示預測錯誤
 
- ![image](https://github.com/egroeglee/pictures/blob/master/LogisticRegression/1.png)
+ ![image](https://github.com/egroeglee/pictures/blob/master/LogisticRegression/6.png)
  
  Output:可以簡單判斷出，年紀大&收入高則購買機率大。
  
